@@ -1,0 +1,23 @@
+{
+  "name": "webpack-sake-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "sme": "source-map-explorer"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "light-ts-loader": "^1.1.1",
+    "source-map-explorer": "^1.3.3",
+    "typescript": "^2.1.6",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "rxjs": "^5.1.1"
+  }
+}
